@@ -22,7 +22,7 @@ Remember to set the python interpreter in your virtual envirorment `venv` as the
 
 For more information about the package virtualenv, go [here](https://virtualenv.pypa.io/en/stable/). 
 
-After this, you need to set the SECRET_VARIABLE environment variable in your OS.
+After doing this, you need to set the SECRET_VARIABLE environment variable in your OS.
 ### Install dependencies
 Activate your virtual environment, then run the following command:
     
