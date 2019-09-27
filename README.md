@@ -9,8 +9,8 @@ WSIL is developed using [Python 3.6.1](http://www.python.it/).
 
 
 ## Installation
-For running WSIL correctly, you have to install **Python 3.6.1** (or high).
-For installing correctly all the requirements you have to install **pip 9.0.1** (or high).
+For running WSIL correctly, you have to install **Python 3.6.1** (or higher).
+For installing correctly all the requirements you have to install **pip 9.0.1** (or higher).
 
 ### Setting the environment
 
@@ -23,6 +23,7 @@ Remember to set the python interpreter in your virtual envirorment `venv` as the
 For more information about the package virtualenv, go [here](https://virtualenv.pypa.io/en/stable/). 
 
 After doing this, you need to set the SECRET_VARIABLE environment variable in your OS.
+
 ### Install dependencies
 Activate your virtual environment, then run the following command:
     
@@ -52,4 +53,4 @@ or
 
 if you are on Linux.
 
-If you don't specify the port, Django will use the default port 8000.
+If you don't specify the port, Django will use the default port `8000`.
